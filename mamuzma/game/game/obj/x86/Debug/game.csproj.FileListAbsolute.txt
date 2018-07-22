@@ -1,0 +1,33 @@
+C:\Users\win\AppData\Local\Temporary Projects\game\bin\Debug\game.exe
+C:\Users\win\AppData\Local\Temporary Projects\game\bin\Debug\game.pdb
+C:\Users\win\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.Form1.resources
+C:\Users\win\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.Properties.Resources.resources
+C:\Users\win\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+C:\Users\win\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.exe
+C:\Users\win\AppData\Local\Temporary Projects\game\obj\x86\Debug\game.pdb
+E:\Extras\programs\game\game\obj\x86\Debug\game.exe
+E:\Extras\programs\game\game\bin\Debug\game.exe
+E:\Extras\programs\game\game\bin\Debug\game.pdb
+E:\Extras\programs\game\game\obj\x86\Debug\game.Form1.resources
+E:\Extras\programs\game\game\obj\x86\Debug\game.Properties.Resources.resources
+E:\Extras\programs\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+E:\Extras\programs\game\game\obj\x86\Debug\game.pdb
+E:\Extras\programs\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+E:\3rd semester\vp\programs\game\game\obj\x86\Debug\game.exe
+E:\3rd semester\vp\programs\game\game\obj\x86\Debug\game.pdb
+D:\final project\game\game\obj\x86\Debug\game.exe
+D:\final project\game\game\obj\x86\Debug\game.pdb
+D:\final project\game\game\bin\Debug\game.exe
+D:\final project\game\game\bin\Debug\game.pdb
+D:\final project\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+D:\final project\game\game\obj\x86\Debug\game.Form1.resources
+D:\final project\game\game\obj\x86\Debug\game.Properties.Resources.resources
+D:\final project\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache
+C:\Users\HS LAPTOP\Desktop\mamuzma\game\game\obj\x86\Debug\game.exe
+C:\Users\HS LAPTOP\Desktop\mamuzma\game\game\obj\x86\Debug\game.pdb
+C:\Users\HS LAPTOP\Desktop\mamuzma\game\game\bin\Debug\game.exe
+C:\Users\HS LAPTOP\Desktop\mamuzma\game\game\bin\Debug\game.pdb
+C:\Users\HS LAPTOP\Desktop\mamuzma\game\game\obj\x86\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\HS LAPTOP\Desktop\mamuzma\game\game\obj\x86\Debug\game.Form1.resources
+C:\Users\HS LAPTOP\Desktop\mamuzma\game\game\obj\x86\Debug\game.Properties.Resources.resources
+C:\Users\HS LAPTOP\Desktop\mamuzma\game\game\obj\x86\Debug\game.csproj.GenerateResource.Cache

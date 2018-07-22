@@ -1,0 +1,49 @@
+C:\Users\win\AppData\Local\Temporary Projects\erp12\bin\Debug\erp12.exe
+C:\Users\win\AppData\Local\Temporary Projects\erp12\bin\Debug\erp12.pdb
+C:\Users\win\AppData\Local\Temporary Projects\erp12\obj\x86\Debug\erp12.Form1.resources
+C:\Users\win\AppData\Local\Temporary Projects\erp12\obj\x86\Debug\erp12.Properties.Resources.resources
+C:\Users\win\AppData\Local\Temporary Projects\erp12\obj\x86\Debug\erp12.csproj.GenerateResource.Cache
+C:\Users\win\AppData\Local\Temporary Projects\erp12\obj\x86\Debug\erp12.exe
+C:\Users\win\AppData\Local\Temporary Projects\erp12\obj\x86\Debug\erp12.pdb
+C:\Users\win\AppData\Local\Temporary Projects\erp12\obj\x86\Debug\erp12.Addvendor.resources
+C:\Users\win\AppData\Local\Temporary Projects\erp12\obj\x86\Debug\erp12.Connection.resources
+C:\Users\win\AppData\Local\Temporary Projects\erp12\obj\x86\Debug\erp12.VendorApproval.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.exe
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.pdb
+E:\Extras\programs\erp12\erp12\bin\Debug\erp12.exe
+E:\Extras\programs\erp12\erp12\bin\Debug\erp12.pdb
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.Addvendor.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.Connection.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.Form1.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.PO.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.Properties.Resources.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.VendorApproval.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.csproj.GenerateResource.Cache
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.csprojResolveAssemblyReference.cache
+E:\Extras\programs\erp12\erp12\obj\x86\Debug\erp12.GrnVendor.resources
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.exe
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.pdb
+D:\final project\erp12\erp12\bin\Debug\erp12.exe
+D:\final project\erp12\erp12\bin\Debug\erp12.pdb
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.csprojResolveAssemblyReference.cache
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.Addvendor.resources
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.Connection.resources
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.Form1.resources
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.GrnVendor.resources
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.PO.resources
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.Properties.Resources.resources
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.VendorApproval.resources
+D:\final project\erp12\erp12\obj\x86\Debug\erp12.csproj.GenerateResource.Cache
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.exe
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.pdb
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\bin\Debug\erp12.exe
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\bin\Debug\erp12.pdb
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.csprojResolveAssemblyReference.cache
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.Addvendor.resources
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.Connection.resources
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.Form1.resources
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.GrnVendor.resources
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.PO.resources
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.Properties.Resources.resources
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.VendorApproval.resources
+C:\Users\HS LAPTOP\Desktop\mamuzma\erp12\erp12\obj\x86\Debug\erp12.csproj.GenerateResource.Cache

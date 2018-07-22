@@ -1,0 +1,7 @@
+E:\Extras\programs\1march2018\1march2018\bin\Release\1march2018.exe
+E:\Extras\programs\1march2018\1march2018\bin\Release\1march2018.pdb
+E:\Extras\programs\1march2018\1march2018\obj\x86\Release\_1march2018.Form1.resources
+E:\Extras\programs\1march2018\1march2018\obj\x86\Release\_1march2018.Properties.Resources.resources
+E:\Extras\programs\1march2018\1march2018\obj\x86\Release\1march2018.csproj.GenerateResource.Cache
+E:\Extras\programs\1march2018\1march2018\obj\x86\Release\1march2018.exe
+E:\Extras\programs\1march2018\1march2018\obj\x86\Release\1march2018.pdb

@@ -1,0 +1,7 @@
+E:\Extras\programs\game\game\bin\Release\game.exe
+E:\Extras\programs\game\game\bin\Release\game.pdb
+E:\Extras\programs\game\game\obj\x86\Release\game.Form1.resources
+E:\Extras\programs\game\game\obj\x86\Release\game.Properties.Resources.resources
+E:\Extras\programs\game\game\obj\x86\Release\game.csproj.GenerateResource.Cache
+E:\Extras\programs\game\game\obj\x86\Release\game.exe
+E:\Extras\programs\game\game\obj\x86\Release\game.pdb

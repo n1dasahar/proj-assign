@@ -1,0 +1,40 @@
+C:\Users\win\AppData\Local\Temporary Projects\1march2018\obj\x86\Debug\_1march2018.Form1.resources
+C:\Users\win\AppData\Local\Temporary Projects\1march2018\obj\x86\Debug\_1march2018.Properties.Resources.resources
+C:\Users\win\AppData\Local\Temporary Projects\1march2018\obj\x86\Debug\1march2018.csproj.GenerateResource.Cache
+C:\Users\win\AppData\Local\Temporary Projects\1march2018\bin\Debug\1march2018.exe
+C:\Users\win\AppData\Local\Temporary Projects\1march2018\bin\Debug\1march2018.pdb
+C:\Users\win\AppData\Local\Temporary Projects\1march2018\obj\x86\Debug\1march2018.exe
+C:\Users\win\AppData\Local\Temporary Projects\1march2018\obj\x86\Debug\1march2018.pdb
+E:\Extras\programs\1march2018\1march2018\obj\x86\Debug\1march2018.exe
+E:\Extras\programs\1march2018\1march2018\obj\x86\Debug\1march2018.pdb
+E:\Extras\programs\1march2018\1march2018\obj\x86\Debug\_1march2018.Form1.resources
+E:\Extras\programs\1march2018\1march2018\obj\x86\Debug\_1march2018.Properties.Resources.resources
+E:\Extras\programs\1march2018\1march2018\obj\x86\Debug\1march2018.csproj.GenerateResource.Cache
+E:\Extras\programs\1march2018\1march2018\bin\Debug\1march2018.exe
+E:\Extras\programs\1march2018\1march2018\bin\Debug\1march2018.pdb
+E:\Extras\programs\1march2018\1march2018\obj\x86\Debug\1march2018.csprojResolveAssemblyReference.cache
+E:\Extras\programs\1march2018\1march2018\obj\x86\Debug\_1march2018.Form2.resources
+E:\Extras\programs\1march2018\1march2018\obj\x86\Debug\_1march2018.Form3.resources
+E:\Extras\programs\1march2018\1march2018\obj\x86\Debug\_1march2018.Form4.resources
+E:\3rd semester\vp\programs\notpad_final\1march2018\obj\x86\Debug\1march2018.exe
+E:\3rd semester\vp\programs\notpad_final\1march2018\obj\x86\Debug\1march2018.pdb
+E:\3rd semester\vp\programs\notpad_final\1march2018\bin\Debug\1march2018.exe
+E:\3rd semester\vp\programs\notpad_final\1march2018\bin\Debug\1march2018.pdb
+E:\3rd semester\vp\programs\notpad_final\1march2018\obj\x86\Debug\1march2018.csprojResolveAssemblyReference.cache
+E:\3rd semester\vp\programs\notpad_final\1march2018\obj\x86\Debug\_1march2018.Form1.resources
+E:\3rd semester\vp\programs\notpad_final\1march2018\obj\x86\Debug\_1march2018.Form2.resources
+E:\3rd semester\vp\programs\notpad_final\1march2018\obj\x86\Debug\_1march2018.Form3.resources
+E:\3rd semester\vp\programs\notpad_final\1march2018\obj\x86\Debug\_1march2018.Form4.resources
+E:\3rd semester\vp\programs\notpad_final\1march2018\obj\x86\Debug\_1march2018.Properties.Resources.resources
+E:\3rd semester\vp\programs\notpad_final\1march2018\obj\x86\Debug\1march2018.csproj.GenerateResource.Cache
+D:\final project\notpad_final\1march2018\obj\x86\Debug\1march2018.exe
+D:\final project\notpad_final\1march2018\obj\x86\Debug\1march2018.pdb
+D:\final project\notpad_final\1march2018\bin\Debug\1march2018.exe
+D:\final project\notpad_final\1march2018\bin\Debug\1march2018.pdb
+D:\final project\notpad_final\1march2018\obj\x86\Debug\1march2018.csprojResolveAssemblyReference.cache
+D:\final project\notpad_final\1march2018\obj\x86\Debug\_1march2018.Form1.resources
+D:\final project\notpad_final\1march2018\obj\x86\Debug\_1march2018.Form2.resources
+D:\final project\notpad_final\1march2018\obj\x86\Debug\_1march2018.Form3.resources
+D:\final project\notpad_final\1march2018\obj\x86\Debug\_1march2018.Form4.resources
+D:\final project\notpad_final\1march2018\obj\x86\Debug\_1march2018.Properties.Resources.resources
+D:\final project\notpad_final\1march2018\obj\x86\Debug\1march2018.csproj.GenerateResource.Cache

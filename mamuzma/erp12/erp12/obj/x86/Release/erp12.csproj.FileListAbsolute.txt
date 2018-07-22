@@ -1,0 +1,11 @@
+E:\Extras\programs\erp12\erp12\bin\Release\erp12.exe
+E:\Extras\programs\erp12\erp12\bin\Release\erp12.pdb
+E:\Extras\programs\erp12\erp12\obj\x86\Release\erp12.Addvendor.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Release\erp12.Connection.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Release\erp12.Form1.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Release\erp12.PO.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Release\erp12.Properties.Resources.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Release\erp12.VendorApproval.resources
+E:\Extras\programs\erp12\erp12\obj\x86\Release\erp12.csproj.GenerateResource.Cache
+E:\Extras\programs\erp12\erp12\obj\x86\Release\erp12.exe
+E:\Extras\programs\erp12\erp12\obj\x86\Release\erp12.pdb
